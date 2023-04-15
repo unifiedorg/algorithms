@@ -2,7 +2,7 @@
 
 # Algorithms
 This repository contains a bunch of **algorithms** in a bunch of **languages**. Below is a list :)
-All of the algorithms are sorted as : `src < [language] < [algorithm (Directory)] < [algorithm (File)]`.
+All of the algorithms are sorted as : `src < [language] < [algorithm (Directory)] < algorithm.[lamguage extension]`.
 Hope this helps!
 
 ## C++
@@ -13,3 +13,7 @@ Hope this helps!
 - [Fibonacci](https://github.com/unifiedorg/algorithms/blob/main/src/Java/Fibonacci/algorithm.java)
 ## C#
 - [Fibonacci](https://github.com/unifiedorg/algorithms/blob/main/src/C%23/Fibonacci/algorithm.cs)
+## Javascript
+- [Fibonacci](https://github.com/unifiedorg/algorithms/blob/main/src/Javascript/Fibonacci/algorithm.js)
+## Go
+- [Fibonacci](https://github.com/unifiedorg/algorithms/blob/main/src/Go/Fibonacci/algorithm.go)
